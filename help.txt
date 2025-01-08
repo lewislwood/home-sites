@@ -1,0 +1,4 @@
+
+npx create-next-app@latest home-next --use-npm --ts --tailwind --app   --eslint
+
+npm init vite@latest checking -- --template react-ts
